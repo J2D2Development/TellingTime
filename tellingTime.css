@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html {
+	height: 100%;
+}
+body {
+	height: 100%;
+}
+#hex {
+	color: #cccccc;
+	font-family: 'Lato', sans-serif;
+	font-size: 60px;
+	position: relative;
+	top: 25%;
+	text-align: center;
+}
+#title {
+	color: #ffffff;
+	font-family: 'Lato', sans-serif;
+	font-size: 80px;
+	position: relative;
+	top: 25%;
+	margin-bottom: 15px;
+	text-align: center;
+}
